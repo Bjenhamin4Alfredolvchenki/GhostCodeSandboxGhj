@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "ghost": "^3.7.0",
-    "ghost-cli": "^1.13.1",
+    "ghost-cli": "^1.23.0",
     "knex-migrator": "^3.4.1"
   },
   "license": "MIT",
